@@ -5,4 +5,4 @@ SOURCES := source
 DATA := data
 INCLUDES :=
 
-include $(DEVKITPRO)/libctru/3ds_rules
+include $(DEVKITARM)/3ds_rules
